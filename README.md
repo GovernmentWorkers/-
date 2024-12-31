@@ -1,4 +1,4 @@
-# <p style="text-align: center;">🤗WesternPlan</p> #
+# <p style="text-align: center;">🤗WesternPlan/西部计划</p> #
 
 > 一份西部计划者们的最佳的指导指南之一，融合西部计划体制合同工作生活说明。
 
